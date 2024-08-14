@@ -6,10 +6,10 @@ Developing a web framework similar to React or Vue using TypeScript and Parcel.
 
 Within to created our framework were going to have two different type of classes
 
-- Model classes
+- **Model classes**:
   handles data, used to represent Users, Blog Posts, Images etc
 
-- View classes
+- **View classes**:
   Handles HTML and events caused by the user (like clicks)
 
 ## Installation
@@ -28,7 +28,7 @@ npm install
 npm run start:server
 ```
 
-- Next start the web application
+- Next start the web application in a new terminal window
 
 ```bash
 npm run start:parcel
