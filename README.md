@@ -7,10 +7,12 @@ Developing a web framework similar to React or Vue using TypeScript and Parcel.
 Within to created our framework were going to have two different type of classes
 
 - **Model classes**:
-  handles data, used to represent Users, Blog Posts, Images etc
+
+  - Handles data, used to represent Users, Blog Posts, Images etc
 
 - **View classes**:
-  Handles HTML and events caused by the user (like clicks)
+
+  - Handles HTML and events caused by the user (like clicks)
 
 ## Installation
 
