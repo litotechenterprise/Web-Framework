@@ -2,38 +2,12 @@
   "users": [
     {
       "id": 1,
-      "name": "Lito",
-      "age": 27
+      "age": 25
     },
     {
       "name": "robert",
       "age": 57,
       "id": 2
-    },
-    {
-      "name": "robert",
-      "age": 57,
-      "id": 3
-    },
-    {
-      "name": "robert",
-      "age": 57,
-      "id": 4
-    },
-    {
-      "name": "robert",
-      "age": 57,
-      "id": 5
-    },
-    {
-      "name": "robert",
-      "age": 57,
-      "id": 6
-    },
-    {
-      "name": "robert",
-      "age": 57,
-      "id": 7
     }
   ]
 }
